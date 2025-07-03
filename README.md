@@ -43,7 +43,7 @@ Device	Layout Behavior
 🚀 Getting Started
 1. Clone the Repository
 
-git clone https://github.com/your-username/covid19-dashboard.git
+git clone https://github.com/chandaniptl/Corona_API
 
 2. Navigate to the Folder
 
