@@ -1,9 +1,13 @@
 https://corona-api-beige.vercel.app/
 
+![corona1](https://github.com/user-attachments/assets/5fc3a83d-f72e-4847-ab4e-87189a570fea)
+
+![corona2](https://github.com/user-attachments/assets/0c976eab-eedc-405b-9785-fc73dd45a49f)
+
 
 🦠 COVID-19 India Dashboard
 
-Live Project → https://covid19-india-dashboard.vercel.app/ (replace with your live link if hosted)
+Live Project → https://corona-api-beige.vercel.app/ (replace with your live link if hosted)
 
 A simple web app that displays live COVID-19 data for India using the Rootnet COVID-19 API. Built with HTML5, CSS3, and JavaScript.
 📁 Project Structure
